@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "Tipalol",
 "productName": "Cool 2d game",
-"productVersion": "0.1",
+"productVersion": "0.8",
 "dataUrl": "Web Build.data.unityweb",
 "wasmCodeUrl": "Web Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Web Build.wasm.framework.unityweb",
